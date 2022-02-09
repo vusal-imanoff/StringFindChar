@@ -1,0 +1,14 @@
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\bin\Debug\netcoreapp3.1\ArrayStringTask.exe
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\bin\Debug\netcoreapp3.1\ArrayStringTask.deps.json
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\bin\Debug\netcoreapp3.1\ArrayStringTask.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\bin\Debug\netcoreapp3.1\ArrayStringTask.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\bin\Debug\netcoreapp3.1\ArrayStringTask.dll
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\bin\Debug\netcoreapp3.1\ArrayStringTask.pdb
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.dll
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.pdb
+C:\Users\PREDATOR\source\repos\ArrayStringTask\ArrayStringTask\obj\Debug\netcoreapp3.1\ArrayStringTask.genruntimeconfig.cache
