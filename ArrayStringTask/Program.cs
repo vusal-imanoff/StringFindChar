@@ -22,11 +22,6 @@ namespace ArrayStringTask
             //}
             #endregion
 
-
-
-
-
-
             #region Task-2
             int i;
             Console.Write("enter symbol: ");
