@@ -52,7 +52,7 @@ namespace ArrayStringTask
             }
             #endregion
 
-            #region Task-2
+            #region Task-1
 
 
             static int[] CustomArraySort(int[] arr)
